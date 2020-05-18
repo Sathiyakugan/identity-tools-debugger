@@ -23,7 +23,7 @@
     <parent>
         <groupId>org.wso2.carbon.identity.developer</groupId>
         <artifactId>identity-tools-debugger</artifactId>
-        <version>0.5.7-SNAPSHOT</version>
+        <version>0.5.7</version>
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
