@@ -81,7 +81,6 @@
         </repository>
     </repositories>
 
-
     <pluginRepositories>
         <pluginRepository>
             <id>wso2.releases</id>
